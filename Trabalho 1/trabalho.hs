@@ -1,5 +1,5 @@
 module MiguelSotoTabajara (main) where
---import System.Random
+import System.Random
 import System.IO (stdout, hFlush)
 
 jogo::Int->Int->Int->IO()
